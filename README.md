@@ -18,8 +18,8 @@ Give GPT access to your local files
 
 ## Features
 
-- 
-- 
+- ChatGPT editing your files
+- summerizing the folder
 - 
 
 ## Installation
